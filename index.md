@@ -1,4 +1,4 @@
-# Community Legal Clinic Manual
+# Community Legal Clinics Manual
 
 ![logo](./assets/logo.png)  
 
