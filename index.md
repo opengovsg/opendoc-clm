@@ -1,4 +1,4 @@
-# Community Legal Clinics Manual
+# Community Legal Clinics Manual 2018
 
 ![logo](./assets/logo.png)  
 
