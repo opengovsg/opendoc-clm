@@ -4,7 +4,7 @@
 
 ### Things To Consider When Purchasing A House Or Flat
 
-When purchasing a house (“House”) or a flat (“Flat”), you should
+When purchasing a house **(“House”)** or a flat *(“Flat”)*, you should
 consider the following and address any problems that may arise:
 
 1.  Title
