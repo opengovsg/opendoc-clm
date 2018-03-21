@@ -2393,8 +2393,8 @@ Maintenance, Repairs, Leakages & Disputes in Strata Management Title
 ### Maintenance Of Exterior Features
 
 Section 9(1) of the **Building Maintenance and Strata Management Act**
-(Cap. 30C) makes it an offense for a person to fail to maintain a
-exterior feature by securely fixing it to the building to prevent its
+(Cap. 30C) makes it an offense for a person to fail to maintain an
+exterior feature such that it remains securely fixed to the building to prevent its
 collapse, partly or wholly, without reasonable excuse, if he is
 responsible for the exterior feature.
 
