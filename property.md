@@ -2423,6 +2423,9 @@ unless: [^46]
 -   Someone else has been prescribed as the person responsible for the
     exterior feature (such a provision shall be determinative even if
     one of the above conditions applies).
+    
+   The definition of "exerior feature" is as provided under the Building Control Act (Cap 29) and is defined as follows:
+   
 
 ### HDB Flats
 
