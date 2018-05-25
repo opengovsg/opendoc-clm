@@ -1,7 +1,5 @@
 # Community Legal Clinics Manual
 
-![logo](./assets/logo.png)  
-
 ## Acknowledgements
 
 Compiled by
