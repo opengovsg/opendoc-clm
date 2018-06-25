@@ -29,7 +29,7 @@ The title to the House may be:
     (Absolute title or an estate in perpetuity)
 -   Leasehold: Usually a lease for 99 years or 999 years. Note that as
     the lease period may have commenced some time ago, meaning little
-    lease period remains. You should seek advice prior buying such
+    lease period remains. You should seek advice prior to buying such
     a property.
 
 **Flat - HDBs, ECs, private condominiums**
@@ -118,17 +118,17 @@ present:
 1. Unity of possession: Each tenant is entitled to full possession of
 the entire property as any other joint tenant, and this means no single
 joint tenant can point to a physical part of the land / house / flat and
-claim it as his or her own
+claim it as his or her own.
 
 2. Unity of interest: This means all tenants are entitled to one and the
 same interest, and in general an interest cannot be shifted to anyone
-else without all the joint tenants agreeing
+else without all the joint tenants agreeing.
 
 3. Unity of title: The interests of all joint tenants must be obtained
-from the **same** document or transfer
+from the **same** document or transfer.
 
 4. Unity of time: Joint tenants must obtain their interests **at the
-same time**
+same time**.
 
 The first two unities describe the rights of joint-tenants. The last two
 unities describe what must be done for you to be listed as a
